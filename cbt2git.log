@@ -1,0 +1,20 @@
+2025-04-13 23:17:32.859895 - Received CBT.V508.FILE835.PDS from FILE835.XMI 
+2025-04-13 23:17:32.861306 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:17:32.861388 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/$$NOTE01
+2025-04-13 23:17:32.861461 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/$$NOTE02
+2025-04-13 23:17:32.861523 - Found $$NOTE03.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/$$NOTE03
+2025-04-13 23:17:32.861580 - Found $$NOTE04.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/$$NOTE04
+2025-04-13 23:17:32.861660 - Found $ORIGINL.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/$ORIGINL
+2025-04-13 23:17:32.861722 - Found @FILE835.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/@FILE835
+2025-04-13 23:17:32.861833 - Found ARTICLE.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/ARTICLE
+2025-04-13 23:17:32.861924 - Found PPTD.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/PPTD
+2025-04-13 23:17:32.861987 - Found PPTD$.jcl (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/PPTD$
+2025-04-13 23:17:32.862081 - Found PPTPAN01.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/PPTPAN01
+2025-04-13 23:17:32.862198 - Found PPTPAN02.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/PPTPAN02
+2025-04-13 23:17:32.862283 - Found PPTSCAN.txt (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/PPTSCAN
+2025-04-13 23:17:32.862373 - Found PPTSCAN$.jcl (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/PPTSCAN$
+2025-04-13 23:17:32.862461 - Found PPTSCANR.rexx (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/PPTSCANR
+2025-04-13 23:17:32.862524 - Found TSOB.rexx (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/TSOB
+2025-04-13 23:17:32.862582 - Found TSOE.rexx (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/TSOE
+2025-04-13 23:17:32.862639 - Found TSOR.rexx (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/TSOR
+2025-04-13 23:17:32.862698 - Found TSOV.rexx (text/plain) in CBT.V508.FILE835.PDS, moved to PDS/TSOV
